@@ -1,7 +1,7 @@
 # Recipe-GUI
 
 ## How it works
-A GUI that scrapes recipes and nutrition information depending on the ingredients you input. This uses multiple APIs, one of which is the Spoonacular API. 
+A GUI that scrapes recipes and nutrition information depending on the ingredients you input. This collaborative project uses multiple APIs, one of which is the Spoonacular API. 
 Spoonacular may require a key to fetch data!!!!
 
 This Tkinter app also uses selenium, which goes through a Chrome driver to scan Spoonacular and federal nutrition websites to give back results.
